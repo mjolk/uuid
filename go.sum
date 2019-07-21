@@ -1,0 +1,4 @@
+github.com/gofrs/uuid v3.2.0+incompatible h1:y12jRkkFxsd7GpqdSZ+/KCs/fJbqpEXSGd4+jfEaewE=
+github.com/gofrs/uuid v3.2.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
+github.com/mjolk/uint128 v0.0.0-20190721203051-49ae6cc53a80 h1:tuhDkhxSm8vDQHdOSEPlWnijVXTmCCTb7nhpvfFQEe8=
+github.com/mjolk/uint128 v0.0.0-20190721203051-49ae6cc53a80/go.mod h1:Z5HfGUlIQgU3bgjsCOm+v1RTuUPfzOW4aL5FHgUaQ3Y=
